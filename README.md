@@ -78,8 +78,4 @@ ProyectoVentasSQL/
 
 
 
----
 
-## ¿Comentarios o sugerencias?
-
-¡Con gusto recibo feedback o mejoras vía GitHub Issues o Pull Requests!
