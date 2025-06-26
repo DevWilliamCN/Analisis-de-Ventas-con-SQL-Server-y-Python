@@ -39,12 +39,6 @@ Este proyecto implementa un sistema completo de análisis, simulación y visuali
 
 ---
 
-## 🖥️ Capturas de pantalla
-
-> *Agregá aquí imágenes de las ventanas del simulador, clasificador y dashboard.*
-
----
-
 ##  Cómo ejecutar el proyecto
 
 ### Prerrequisitos
@@ -80,13 +74,9 @@ ProyectoVentasSQL/
 └── (otros módulos opcionales)
 ```
 
----
 
-##  Autor
 
-**William Cubero**  
-*Ingeniero TI, apasionado por automatización, análisis de datos y desarrollo de herramientas prácticas.*  
-🔗 [Tu LinkedIn o portafolio aquí]
+
 
 ---
 
